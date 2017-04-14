@@ -40,7 +40,7 @@ def password(n):
 
 
 if __name__ == '__main__':
-    password_list = password(3)
+    password_list = password(4)
     num_passwords = len(password_list)
     num_lines = int(num_passwords/100)
 
